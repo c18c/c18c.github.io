@@ -86,12 +86,12 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: What we do?
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: 擴充已有但品質不佳條目, color: "#fdb157", value: "25%" }
+  - { name: 對於新興且具有影響力的品牌撰寫條目, color: "#9473e6", value: "25%" }
+  - { name: 翻譯其他語言中質量優良的品牌條目, color: "#bdecf6", value: "25%" }
+  - { name: 更多，期待你的參與..., color: "#ffbcaa", value: "25%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: 暫無,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "沒有數據（",
+      organization: "沒有數據（",
     }
   - {
-      name: UX & UI Designer,
+      name: 暫無,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "沒有數據（",
+      organization: "沒有數據（",
     }
   - {
-      name: Senior UI Designer,
+      name: 暫無,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "沒有數據（",
+      organization: "沒有數據（",
     }
 
 #-------------------------------
