@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Brand with Pedia
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: 
+description: BWP的官方網站
+email: support@bwp.wiki
+phone: +852 6737 6231
+address: None
+copyright: Copyright &copy; 2022 Brand With Pedia
 
 menu:
   - { name: About, link: "/about" }
@@ -42,7 +42,7 @@ social:
   - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-twitter", link: "https://twitter.com/bwp_wiki" }
 
 #-------------------------------
 # About (Section and Page)
