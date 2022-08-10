@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 嗨！ <br> 歡迎訪問 <br> BWP的專題頁面！
 
 social:
   - { icon: "ti-facebook", link: "#" }
