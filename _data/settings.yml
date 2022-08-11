@@ -39,7 +39,7 @@ hero:
   hero-title: 嗨！ <br> 歡迎訪問 <br> BWP的專題頁面！
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/profile.php?id=100084190462650" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "https://twitter.com/bwp_wiki" }
