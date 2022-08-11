@@ -1,18 +1,19 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+title: About us
+author: Coffee18 Cool
+image: assets/images/favicon.png
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+當我在翻閱中文維基百科香奈兒條目的時候，我發現了該條目產品下只有幾幅圖，我翻閱了其他品牌類的條目發現很匱乏，而百度百科則有很多是從英文維基百科機翻來的，我看到之後非常的困惑，想做點什麼，於是，Brand with Pedia應運而生。
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+我們致力於對所有大型中文百科的公司類條目進行擴充，包括但不限於：
+擴充已有但品質不佳條目
+對於新興且具有影響力的品牌撰寫條目
+翻譯其他語言中質量優良的品牌條目
+......
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+如果你是公司的宣發人員，你可以給予我們貴司的資料及參考來源，我們會在評估後決定是否進行編寫，聯繫方式位於頁面底部，當然如果你有意咨詢可以填寫頁面底部的表格，我們會有專員進行回復。
+
+如果你是我們志同道合的夥伴，可以聯繫該郵箱加入我們：join@bwp.wiki。
