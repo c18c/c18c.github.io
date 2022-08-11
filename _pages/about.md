@@ -1,9 +1,9 @@
 ---
 layout: about
 title: About us
-author: Coffee18 Cool
+author: Brand with Pedia
 image: assets/images/favicon.png
-signature: assets/images/about/signature.png
+<!-- signature: assets/images/about/signature.png -->
 ---
 
 當我在翻閱中文維基百科香奈兒條目的時候，我發現了該條目產品下只有幾幅圖，我翻閱了其他品牌類的條目發現很匱乏，而百度百科則有很多是從英文維基百科機翻來的，我看到之後非常的困惑，想做點什麼，於是，Brand with Pedia應運而生。
