@@ -41,7 +41,7 @@ hero:
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/profile.php?id=100084190462650" }
   - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
+  - { icon: "ti-dribbble", link: "https://dribbble.com/bwp_wiki" }
   - { icon: "ti-twitter", link: "https://twitter.com/bwp_wiki" }
 
 #-------------------------------
