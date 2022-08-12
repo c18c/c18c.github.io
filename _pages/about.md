@@ -20,4 +20,4 @@ signature: assets/images/BWP-FZ.png
 
 或者你也可以在百科專題頁直接參與：
 
-> [維基百科品牌專題](https://zh.wikipedia.org/wiki/WikiProject:%E5%93%81%E7%89%8C "點我來訪問專題頁面")
+> [維基百科：品牌專題](https://zh.wikipedia.org/wiki/WikiProject:%E5%93%81%E7%89%8C "點我來訪問專題頁面")
