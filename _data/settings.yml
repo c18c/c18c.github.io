@@ -79,9 +79,9 @@ team:
     image: "assets/images/team/Coffee18_Cool.jpg"
     designation: "發起人"
 
-#   - title: "John Doe"
-#     image: "assets/images/team/member-3.png"
-#     designation: "Designer"
+  - title: "Diana Katerina Jones"
+    image: "assets/images/team/Diana Katerina Jones.png"
+    designation: "志願者"
 
 #-------------------------------
 # Skills Section
