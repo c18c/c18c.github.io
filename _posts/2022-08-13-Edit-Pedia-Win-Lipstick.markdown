@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  編輯百科贏取口紅
+title:  第一次編輯活動，參與，並奪取CHANEL！
 date:   2022-08-13 21:28:55 +0300
 image:  /assets/images/blog/post-5.jpg
 author: Coffee18 Cool
@@ -18,7 +18,7 @@ tags:   Chrome Version 104.0.5112.81, Windows 11 Pro for Workstations
 
 >限制使用日期：****************
 
->郵寄方式：中國大陸除新疆外包郵，其他地區郵費原則上與獎品提供者平分
+>郵寄方式：中國大陸除新疆外包郵，其他地區郵費原則上與獎品提供者平攤
 
 >註：獲獎者有權力將獎品轉贈或放棄該獎品
 
