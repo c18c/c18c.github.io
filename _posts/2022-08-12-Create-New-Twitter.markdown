@@ -2,7 +2,7 @@
 layout: post
 title:  歡迎關注我們的推特！
 date:   2022-08-12 12:15:55 +0300
-image:  /assets/images/blog/Screenshot 2022-08-12 121842.png
+image:  /assets/images/blog/bwptwitter.png
 author: Coffee18 Cool
 tags:   Chrome Version 104.0.5112.81, Windows 11 Pro for Workstations
 ---
