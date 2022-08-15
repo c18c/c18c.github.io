@@ -2,7 +2,7 @@
 layout: post
 title:  一切的起點，Start！CHANEL！
 date:   2022-08-13 21:28:55 +0300
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/CHANEL-COCO-IN-MIDDLE.jpg
 author: Coffee18 Cool
 tags:   Chrome Version 104.0.5112.81, Windows 11 Pro for Workstations
 ---
