@@ -20,6 +20,10 @@ signature: assets/images/BWP-FZ.png
 
 或者你也可以在百科專題頁直接參與：
 
-> [維基百科：品牌專題](https://zh.wikipedia.org/wiki/WikiProject:%E5%93%81%E7%89%8C "點我來訪問專題頁面")
+**S**
 
 > [识典百科：品牌专题](https://shidianbaike.com/index.php/%E8%AF%86%E5%85%B8%E7%99%BE%E7%A7%91:%E5%93%81%E7%89%8C%E4%B8%93%E9%A2%98 "點我來訪問專題頁面-只有簡體中文（大陸）頁面")
+
+**W**
+
+> [維基百科：品牌專題](https://zh.wikipedia.org/wiki/WikiProject:%E5%93%81%E7%89%8C "點我來訪問專題頁面")
