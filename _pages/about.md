@@ -22,7 +22,7 @@ signature: assets/images/BWP-FZ.png
 
 **Q**
 
-> [求聞百科：品牌興趣小組](https://bwp.wiki/about/# "由Diana Katerina Jones負責，但尚未達到創建要求，目前在努力中")
+> [求聞百科：品牌興趣小組](# "由Diana Katerina Jones負責，但尚未達到創建要求，目前在努力中")
 
 **S**
 
