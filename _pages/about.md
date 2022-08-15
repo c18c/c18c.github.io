@@ -26,7 +26,7 @@ signature: assets/images/BWP-FZ.png
 
 **S**
 
-> [识典百科：品牌专题](https://shidianbaike.com/index.php/%E8%AF%86%E5%85%B8%E7%99%BE%E7%A7%91:%E5%93%81%E7%89%8C%E4%B8%93%E9%A2%98 "點我來訪問專題頁面-只有簡體中文（大陸）頁面")
+> [识典百科：品牌专题](https://shidianbaike.com/index.php/%E8%AF%86%E5%85%B8%E7%99%BE%E7%A7%91:%E5%93%81%E7%89%8C%E4%B8%93%E9%A2%98 "點我來訪問專題頁面-只有簡體中文（中國大陸）頁面")
 
 **W**
 
